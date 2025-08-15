@@ -10,7 +10,7 @@ import org.junit.jupiter.api.TestInstance.Lifecycle;
 
 /**
  * OUTPUT
- * @TestInstance(Lifecycle.PER_METHOD)
+ * @TestInstance(Lifecycle.PER_CLASS)
 ----------------------------------------
 ApplicationTests class Instance created
 inside @BeforeAll method
